@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}body{background:#f1f5f8;color:#222;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif}.booklist{grid-gap:2rem;display:grid;gap:2rem;margin:5rem auto;max-width:1170px;width:90vw}@media screen and (min-width:768px){.booklist{grid-template-columns:repeat(3,1fr)}}.book{background:#fff;border-radius:1rem;padding:2rem;text-align:center}.book img{object-fit:cover;width:100%}.book h2{font-size:1rem;margin-top:1rem}
+/*# sourceMappingURL=main.034865d8.css.map*/
