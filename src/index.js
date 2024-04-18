@@ -49,7 +49,7 @@ const Author = () => {
 const ImageUpload = () => {
   const [profileImage, setProfileImage] = useState();
   const [imagePreview, setImagePreview] = useState();
-  const [uploadData, setUploadData] = useState();
+ // const [uploadData, setUploadData] = useState();
   const [isLoading, setIsLoading] = useState(false);
 
   const handleImageChange = (e) => {
